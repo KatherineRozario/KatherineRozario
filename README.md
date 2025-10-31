@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KatherineRozario
-- 👀 I’m interested in full stack web development 
-- 🌱 I’m currently learning C/C++,Python and Javascript
+- 👀 I’m interested in full stack web development and CyberSecurity
 - 📫 How to reach me katherinerozario95@gmail.com
 - 😄 Pronouns: she/her
 <!---
